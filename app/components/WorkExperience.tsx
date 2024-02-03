@@ -9,31 +9,35 @@ function WorkExperience() {
         <div className="flex gap-4 md:gap-6">
           <Logo src="/images/accenture_logo.png" alt="Accenture logo" />
           <div>
-            <p className="text-highlight">Accenture</p>
+            <p className="text-highlight font-medium">Accenture</p>
             <p>Software Engineer (Frontend)</p>
             <p>Kolkata, West Bengal, India</p>
             <p>Mar 2022 - Aug 2023</p>
             <DetailsToggle>
               <ul className="mt-2 flex flex-col gap-2 list-disc ml-4">
                 <li>
-                  Worked for 4 major feature releases and delivered crucial
-                  application functionalities like Advanced Search, Session
-                  Management, Scratchpad etc., and fixed 30+ technical bugs and
-                  styling issues across the entire application.
+                  Worked for <strong>4 major feature releases</strong> and{" "}
+                  <strong>delivered crucial application functionalities</strong>{" "}
+                  like Advanced Search, Session Management, Scratchpad etc., and{" "}
+                  <strong>fixed 30+ technical bugs and styling issues </strong>
+                  across the entire application.
                 </li>
                 <li>
-                  Achieved a 17% reduction in bundle sizes and improved
-                  performance score from 62 to 71 in Chrome Lighthouse by
-                  migrating application components from Material-UI and
-                  KendoReact to Radix-UI and Tailwind CSS, while maintaining the
-                  same look and feel.
+                  Achieved a <strong>17% reduction in bundle sizes</strong> and
+                  <strong>improved performance score from 62 to 71</strong> in
+                  Chrome Lighthouse by migrating application components from
+                  Material-UI and KendoReact to Radix-UI and Tailwind CSS, while
+                  maintaining the same look and feel.
                 </li>
                 <li>
-                  Enhanced the usability, performance, and customizability of 4
-                  different components of the in-house component library used by
-                  5 different applications, by leveraging modern browser
-                  features, removing unnecessary side effects, and utilizing
-                  caching where applicable.
+                  <strong>
+                    Enhanced the usability, performance, and customizability of
+                    4 different components
+                  </strong>{" "}
+                  of the in-house component library used by 5 different
+                  applications, by leveraging modern browser features, removing
+                  unnecessary side effects, and utilizing caching where
+                  applicable.
                 </li>
               </ul>
             </DetailsToggle>
@@ -43,42 +47,52 @@ function WorkExperience() {
         <div className="flex gap-4 md:gap-6">
           <Logo src="/images/cognizant_logo.jpeg" alt="Cognizant logo" />
           <div>
-            <p className="text-highlight">Cognizant</p>
+            <p className="text-highlight font-medium">Cognizant</p>
             <p>Software Engineer</p>
             <p>Kolkata, West Bengal, India</p>
             <p>Jul 2019 - Mar 2022</p>
             <DetailsToggle>
               <ul className="mt-2 flex flex-col gap-2 list-disc ml-4">
                 <li>
-                  Developed a real-time data integration system between
-                  Salesforce and Redtail CRMs using Salesforce triggers, batch
-                  jobs, MuleSoft AnyPoint Platform and Azure message queues,
-                  that significantly eased the workflows of financial advisors
-                  and facilitated the onboarding of more than 60 new advisors
-                  within 9 months.
+                  Developed a <strong>real-time data integration system</strong>{" "}
+                  between Salesforce and Redtail CRMs using Salesforce triggers,
+                  batch jobs, MuleSoft AnyPoint Platform and Azure message
+                  queues, that significantly eased the workflows of financial
+                  advisors and{" "}
+                  <strong>
+                    facilitated the onboarding of more than 60 new advisors
+                    within 9 months
+                  </strong>
+                  .
                 </li>
                 <li>
-                  Designed 7 different HubSpot CRM workflows that reduced
-                  friction in driving email marketing campaigns, empowering more
-                  than 20 marketing consultants.
+                  Designed <strong>7 different HubSpot CRM workflows</strong>{" "}
+                  that reduced friction in driving email marketing campaigns,{" "}
+                  <strong>empowering more than 20 marketing consultants</strong>
+                  .
                 </li>
                 <li>
-                  Implemented an in-house JavaScript network logger library with
-                  support for different log levels and schema validation and
-                  integrated it with Elasticsearch, that was quickly adopted for
-                  use by 3+ applications in the project.
+                  Implemented an{" "}
+                  <strong>in-house JavaScript network logger</strong> library
+                  with support for different log levels and schema validation
+                  and integrated it with Elasticsearch, that was{" "}
+                  <strong>quickly adopted for use by 3+ applications</strong> in
+                  the project.
                 </li>
                 <li>
-                  Created 5+ APIs to provide applications with access to
-                  demographic data and created a Windows service using C# and
-                  .NET framework to periodically archive local log files
+                  Created <strong>5+ APIs</strong> to provide applications with
+                  access to demographic data and created a Windows service using
+                  C# and .NET framework to periodically archive local log files
                   generated by applications.
                 </li>
                 <li>
                   Built the user interface of a marketing automation application
-                  using React and an analytics dashboard in Kibana that
-                  streamlined the process of marketing data collection and
-                  monitoring for financial advisors.
+                  using React and an analytics dashboard in Kibana that{" "}
+                  <strong>
+                    streamlined the process of marketing data collection and
+                    monitoring for financial advisors
+                  </strong>
+                  .
                 </li>
               </ul>
             </DetailsToggle>

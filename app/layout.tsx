@@ -16,9 +16,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${GeistSans.variable} ${GeistMono.variable} bg-neutral-900 text-neutral-400 font-sans antialiased text-balance`}
+        className={`${GeistSans.variable} ${GeistMono.variable} bg-background text-base font-sans antialiased text-balance`}
       >
-        <div className="w-full max-w-2xl py-16 px-4 md:px-8 mx-auto">
+        <div className="w-full max-w-2xl py-8 md:py-16 px-4 md:px-8 mx-auto">
           {children}
         </div>
       </body>

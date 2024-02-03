@@ -10,7 +10,7 @@ function Education() {
         <div className="flex gap-4 md:gap-6">
           <Logo src="/images/uf_logo.jpg" alt="University of Florida logo" />
           <div>
-            <p className="text-highlight">University of Florida</p>
+            <p className="text-highlight font-medium">University of Florida</p>
             <p>Gainesville, Florida, USA</p>
             <p>Master of Science, Computer Science</p>
             <p>
@@ -23,7 +23,7 @@ function Education() {
         <div className="flex gap-4 md:gap-6">
           <Logo src="/images/makaut_logo.jpg" alt="MAKAUT logo" />
           <div>
-            <p className="text-highlight">
+            <p className="text-highlight font-medium">
               Maulana Abul Kalam Azad University of Technology
             </p>
             <p>Kolkata, West Bengal, India</p>

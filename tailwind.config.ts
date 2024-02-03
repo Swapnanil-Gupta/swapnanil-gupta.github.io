@@ -15,7 +15,9 @@ const config: Config = {
       },
       colors: {
         accent: colors.red[400],
+        base: colors.neutral[400],
         highlight: colors.neutral[100],
+        background: colors.neutral[900],
       },
       keyframes: {
         "collapsible-down": {
