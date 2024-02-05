@@ -3,7 +3,7 @@ import { Github, Linkedin } from "lucide-react";
 function Intro() {
   return (
     <div className="flex flex-col gap-4">
-      <h1 className="text-4xl font-mono text-highlight">Swapnanil Gupta</h1>
+      <h1 className="text-4xl font-medium text-highlight">Swapnanil Gupta</h1>
       <div className="font-medium">
         <p>Software Engineer</p>
         <p>CS graduate student @ UF</p>
