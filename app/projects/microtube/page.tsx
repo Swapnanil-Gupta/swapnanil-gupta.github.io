@@ -34,7 +34,6 @@ function Microtube() {
         >
           Source Code <ExternalLink className="h-4 w-4" />
         </a>
-        T
       </div>
       <div>
         <p className="text-highlight">Browsing, searching and video playback</p>

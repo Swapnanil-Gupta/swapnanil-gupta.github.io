@@ -5,7 +5,7 @@ import * as Collapsible from "@radix-ui/react-collapsible";
 import { ChevronDown } from "lucide-react";
 
 function DetailsToggle({ children }: { children: ReactNode }) {
-  const [show, setShow] = useState(false);
+  const [show, setShow] = useState(true);
 
   return (
     <Collapsible.Root open={show} onOpenChange={setShow}>

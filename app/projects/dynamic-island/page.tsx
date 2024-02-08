@@ -30,7 +30,6 @@ function DynamicIsland() {
         >
           Source Code <ExternalLink className="h-4 w-4" />
         </a>
-        T
       </div>
       <div>
         <p className="text-highlight">See it in action</p>
