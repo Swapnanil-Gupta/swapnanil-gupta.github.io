@@ -4,7 +4,7 @@ import Logo from "./Logo";
 
 const EDUCATION = [
   {
-    image: "/images/uf_logo.jpg",
+    image: "https://ddy7tjx3j294c.cloudfront.net/images/uf_logo.jpg",
     uni: "University of Florida",
     loc: "Gainesville, Florida, USA",
     deg: "Master of Science, Computer Science",
@@ -13,7 +13,7 @@ const EDUCATION = [
     gpa: "4.0/4.0",
   },
   {
-    image: "/images/makaut_logo.jpg",
+    image: "https://ddy7tjx3j294c.cloudfront.net/images/makaut_logo.jpg",
     uni: "Maulana Abul Kalam Azad University of Technology",
     loc: "Kolkata, West Bengal, India",
     deg: "Bachelor of Technology, Electronics & Communication",

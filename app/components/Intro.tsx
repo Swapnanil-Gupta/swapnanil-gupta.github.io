@@ -11,16 +11,16 @@ function Intro() {
       <div className="flex items-center gap-4">
         <a
           className="text-accent"
-          href="/files/resume.pdf"
-          download="Swapnanil Gupta Resume.pdf"
+          target="_blank"
+          href="https://ddy7tjx3j294c.cloudfront.net/files/resume.pdf"
         >
           Resume
         </a>
         <p>|</p>
         <a
           className="text-accent"
-          href="/files/transcript.pdf"
-          download="Swapnanil Gupta Transcript.pdf"
+          target="_blank"
+          href="https://ddy7tjx3j294c.cloudfront.net/files/transcript.pdf"
         >
           Transcript
         </a>
