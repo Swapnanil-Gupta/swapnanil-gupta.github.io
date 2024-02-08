@@ -1,14 +1,14 @@
-import { Github, Linkedin } from "lucide-react";
+import { Github, Linkedin, Mail } from "lucide-react";
 
 function Intro() {
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col items-start gap-4">
       <h1 className="text-4xl font-medium text-highlight">Swapnanil Gupta</h1>
       <div className="font-medium">
         <p>Software Engineer</p>
         <p>CS graduate student @ UF</p>
       </div>
-      <div className="flex items-center gap-4">
+      <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
         <a
           className="text-accent"
           target="_blank"
@@ -23,6 +23,15 @@ function Intro() {
           href="https://ddy7tjx3j294c.cloudfront.net/files/transcript.pdf"
         >
           Transcript
+        </a>
+        <p>|</p>
+        <a
+          className="text-accent"
+          target="_blank"
+          href="mailto:gupta.swapnanil@gmail.com"
+        >
+          <span className="sr-only">Email</span>
+          <Mail className="h-6 w-6 text-accent" />
         </a>
         <p>|</p>
         <a href="https://github.com/Swapnanil-Gupta" target="_blank">

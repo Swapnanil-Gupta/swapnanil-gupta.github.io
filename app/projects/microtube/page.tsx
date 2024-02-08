@@ -1,3 +1,4 @@
+import TechStack from "@/app/components/TechStack";
 import { ExternalLink } from "lucide-react";
 
 function Microtube() {
@@ -11,6 +12,20 @@ function Microtube() {
         comments. etc. from scratch. It is a distributed and extensible system
         that offers a small subset of Youtube&apos;functionality.
       </p>
+      <TechStack
+        stack={[
+          "TypeScript",
+          "React",
+          "Next.js",
+          "Node.js",
+          "Prisma",
+          "AWS SQS",
+          "AWS S3",
+          "FFMpeg",
+          "AWS RDS",
+          "MySQL",
+        ]}
+      />
       <div className="flex gap-2 text-accent">
         <a
           className="flex gap-1 items-center"
@@ -19,6 +34,7 @@ function Microtube() {
         >
           Source Code <ExternalLink className="h-4 w-4" />
         </a>
+        T
       </div>
       <div>
         <p className="text-highlight">Browsing, searching and video playback</p>
@@ -39,7 +55,7 @@ function Microtube() {
         </div>
       </div>
       <div>
-        <p className="text-highlight">Uploading videos</p>
+        <p className="text-highlight">Uploading and processing videos</p>
         <div className="mt-6 rounded-xl overflow-hidden">
           <video
             src="https://ddy7tjx3j294c.cloudfront.net/videos/microtube_upload.mp4"

@@ -6,7 +6,7 @@ function Logo({ src, alt }: { src: string; alt: string }) {
       <div className="bg-background z-10 py-2 sticky top-2">
         <div className="h-16 md:h-20 w-16 md:w-20 rounded-full overflow-hidden">
           <img
-            className="h-full aspect-square object-cover saturate-0"
+            className="h-full aspect-square object-cover"
             src={src}
             alt={alt}
           />

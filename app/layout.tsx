@@ -21,6 +21,7 @@ export default function RootLayout({
         <div className="w-full max-w-2xl py-8 md:py-16 px-4 md:px-8 mx-auto">
           <main className="flex flex-col gap-16">
             <Intro />
+            <div className="h-0.5 rounded-xl bg-neutral-800"></div>
             {children}
           </main>
         </div>
