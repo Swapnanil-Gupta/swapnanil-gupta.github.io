@@ -39,7 +39,7 @@ function Microtube() {
         <p className="text-highlight">Browsing, searching and video playback</p>
         <div className="mt-6 rounded-xl overflow-hidden">
           <video
-            src="https://ddy7tjx3j294c.cloudfront.net/videos/microtube_home_search_playback.mp4"
+            src="https://d2vwxessb8tj4z.cloudfront.net/videos/microtube_home_search_playback.mp4"
             controls
           />
         </div>
@@ -48,7 +48,7 @@ function Microtube() {
         <p className="text-highlight">Likes, dislikes and comments</p>
         <div className="mt-6 rounded-xl overflow-hidden">
           <video
-            src="https://ddy7tjx3j294c.cloudfront.net/videos/microtube_like_dislike_comment.mp4"
+            src="https://d2vwxessb8tj4z.cloudfront.net/videos/microtube_like_dislike_comment.mp4"
             controls
           />
         </div>
@@ -57,7 +57,7 @@ function Microtube() {
         <p className="text-highlight">Uploading and processing videos</p>
         <div className="mt-6 rounded-xl overflow-hidden">
           <video
-            src="https://ddy7tjx3j294c.cloudfront.net/videos/microtube_upload.mp4"
+            src="https://d2vwxessb8tj4z.cloudfront.net/videos/microtube_upload.mp4"
             controls
           />
         </div>

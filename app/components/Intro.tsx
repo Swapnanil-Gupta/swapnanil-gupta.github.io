@@ -12,7 +12,7 @@ function Intro() {
         <a
           className="text-accent"
           target="_blank"
-          href="https://ddy7tjx3j294c.cloudfront.net/files/resume.pdf"
+          href="https://d2vwxessb8tj4z.cloudfront.net/files/resume.pdf"
         >
           Resume
         </a>
@@ -20,7 +20,7 @@ function Intro() {
         <a
           className="text-accent"
           target="_blank"
-          href="https://ddy7tjx3j294c.cloudfront.net/files/transcript.pdf"
+          href="https://d2vwxessb8tj4z.cloudfront.net/files/transcript.pdf"
         >
           Transcript
         </a>

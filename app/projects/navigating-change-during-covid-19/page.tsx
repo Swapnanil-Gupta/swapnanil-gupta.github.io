@@ -39,7 +39,7 @@ export default function NavigatingChangeDuringCovid19() {
         <p className="text-highlight">Different Visualizations</p>
         <div className="mt-6 rounded-xl overflow-hidden">
           <video
-            src="https://s3.amazonaws.com/swapnanil-gupta.github.io/videos/nav_change_graphs.mp4"
+            src="https://d2vwxessb8tj4z.cloudfront.net/videos/nav_change_graphs.mp4"
             controls
           />
         </div>
@@ -50,7 +50,7 @@ export default function NavigatingChangeDuringCovid19() {
         </p>
         <div className="mt-6 rounded-xl overflow-hidden">
           <video
-            src="https://s3.amazonaws.com/swapnanil-gupta.github.io/videos/nav_change_controls.mp4"
+            src="https://d2vwxessb8tj4z.cloudfront.net/videos/nav_change_controls.mp4"
             controls
           />
         </div>

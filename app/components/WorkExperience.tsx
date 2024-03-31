@@ -3,7 +3,7 @@ import Logo from "./Logo";
 
 const WORK_EXPERIENCES = [
   {
-    image: "https://ddy7tjx3j294c.cloudfront.net/images/accenture_logo.png",
+    image: "https://d2vwxessb8tj4z.cloudfront.net/images/accenture_logo.png",
     company: "Accenture",
     role: "Software Engineer (Frontend)",
     loc: "Kolkata, West Bengal, India",
@@ -16,7 +16,7 @@ const WORK_EXPERIENCES = [
     ],
   },
   {
-    image: "https://ddy7tjx3j294c.cloudfront.net/images/cognizant_logo.jpeg",
+    image: "https://d2vwxessb8tj4z.cloudfront.net/images/cognizant_logo.jpeg",
     company: "Cognizant",
     role: "Software Engineer",
     loc: "Kolkata, West Bengal, India",

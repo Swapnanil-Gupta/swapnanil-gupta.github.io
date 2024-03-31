@@ -35,7 +35,7 @@ function DynamicIsland() {
         <p className="text-highlight">See it in action</p>
         <div className="mt-6 rounded-xl overflow-hidden">
           <video
-            src="https://ddy7tjx3j294c.cloudfront.net/videos/dynamic_island.mp4"
+            src="https://d2vwxessb8tj4z.cloudfront.net/videos/dynamic_island.mp4"
             controls
           />
         </div>
